@@ -1,3 +1,10 @@
+/* This is me adding something random right now to make this file slightly different on dev branch */
+
+body {
+  background-color: var(--base-light);
+  line-height: 1.6;
+}
+
 /* Base HTML Styles */
 @import url("https://fonts.googleapis.com/css2?family=Inter&family=Rubik:ital,wght@0,400;0,700;1,400&display=swap");
 
