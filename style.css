@@ -9,11 +9,11 @@ body {
 @import url("https://fonts.googleapis.com/css2?family=Inter&family=Rubik:ital,wght@0,400;0,700;1,400&display=swap");
 
 :root {
-  --brand: #8246af;
-  --action: #ffa300;
+  --brand: #fbaeeb;
+  --action: #7be5f8;
   --white: #ffffff;
-  --base-light: #cdb5df;
-  --base-dark: #0d0711;
+  --base-light: #98f5e1;
+  --base-dark: #30343f;
   --black: #111111;
 }
 
@@ -141,7 +141,7 @@ header button {
 .hero h1 {
     font-size: 2rem;
     margin-bottom: 24px;
-    color: var(--white);
+    color: var(--black);
 }
 
 .hero .hero-accent {
@@ -150,7 +150,7 @@ header button {
 
 article {
     padding: 32px 16px;
-    background-color: var(--base-light);
+    background-color: var(--white);
     border-radius: 10px;
     margin: 5px 10px;
     transition: all 0.3s ease;
